@@ -1,0 +1,20 @@
+       [{
+            "id": 1,
+            "taskName": "Computer Service",
+            "laborPrice": 100,
+            "partsPrice": 100
+        },
+        {
+            "id": 2,
+            "taskName": "Any",
+            "laborPrice": 200,
+          "partsPrice": 200
+        },
+        {
+            "id": 2,
+            "taskName": "Rental",
+            "laborPrice": 200,
+          "partsPrice": 200
+        }
+    ]  
+ 

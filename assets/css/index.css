@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+td{
+    padding-left: 5em;
+}
+.badge{
+    color:white;
+    background-color:red;
+    margin-left:5px;
+}
+table{
+    border-radius: 15px;
+   
+}
+td i:hover {
+    transform: scale(1.1);
+ 
+    transition: .3s;
+}
+.total i:not(#grandTotal){
+    display: block;
+    margin-right: auto;
+}
+.total{
+    margin-top: 30px;
+}
+button{
+    
+    overflow: hidden;
+  
+}
+button i{
+    padding:0px;;
+}
